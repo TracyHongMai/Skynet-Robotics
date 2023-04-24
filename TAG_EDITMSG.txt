@@ -1,0 +1,5 @@
+merging the changes from the Release branch to the Develop and Main branches, tagged the release with the version number, and deleted the Release branch.
+#
+# Write a message for tag:
+#   1.0
+# Lines starting with '#' will be ignored.
